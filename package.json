@@ -2,6 +2,7 @@
   "name": "router-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://munnamiiraz.github.io/React-Project",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -27,4 +28,5 @@
     "globals": "^16.3.0",
     "vite": "^7.0.4"
   }
+  
 }
